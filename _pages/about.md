@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/aae/), Faculty of Engineering, at The Hong Kong Polytechnic University, under the supervision of [Dr. Gangyan Xu](http://xugangyan.cn/). I received my Bachelor’s degree in Economic Sciences from [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), and my M.Phil. degree in Aviation Engineering from The Hong Kong Polytechnic University.
+I am a first-year Ph.D. student in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/aae/), Faculty of Engineering, at The Hong Kong Polytechnic University, under the supervision of [Dr. Gangyan Xu](http://xugangyan.cn/about.html). I received my Bachelor’s degree in Economic Sciences from [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), and my M.Phil. degree in Aviation Engineering from The Hong Kong Polytechnic University.
 
 My research interests include Dynamic Decision-Making, Network Design, UAV-assisted Systems, and Healthcare Management.
 
