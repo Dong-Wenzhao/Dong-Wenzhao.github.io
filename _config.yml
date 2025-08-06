@@ -13,7 +13,7 @@ title                    : "Wenzhao Dong (董文钊)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://dong-wenzhao.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://dong-wenzhao.github.io/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Dong-Wenzhao/dong-wenzhao.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "1-1.jpg"
   name             : "Wenzhao Dong"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student, Dept. AAE, The Hong Kong Polytechnic University"
+  bio              : "Ph.D. Student, The Hong Kong Polytechnic University"
   location         : "Hong Kong"
   employer         : # "Red Brick University"
   uri              : # URL
