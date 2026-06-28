@@ -7,18 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/aae/), Faculty of Engineering, at The Hong Kong Polytechnic University, under the supervision of [Dr. Gangyan Xu](http://xugangyan.cn/about.html). I received my Bachelor’s degree in Economics from [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), and my M.Phil. degree in Aviation Engineering from The Hong Kong Polytechnic University.
+I am a second-year Ph.D. student in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/aae/), Faculty of Engineering, at The Hong Kong Polytechnic University, under the supervision of [Dr. Gangyan Xu](http://xugangyan.cn/about.html). I received my Bachelor’s degree in Economics from [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), and my M.Phil. degree in Aviation Engineering from The Hong Kong Polytechnic University.
 
-My research interests include Dynamic Decision-Making, Network Design, UAV-assisted Systems, and Healthcare Management.
+My research interests include UAV-assisted Systems, Risk Analysis, and Human-AI Collaboration.
 
-A data-driven personal website
+Education
 ======
 
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+* Ph.D. in Aviation Engineering, The Hong Kong Polytechnic University, 2025.05 - Present
+* M.Phil. in Aviation Engineering, The Hong Kong Polytechnic University, 2025
+* B.S. in Economics, Harbin Institute of Technology, Shenzhen, 2022
 
 Getting started
 ======
