@@ -26,8 +26,8 @@ Education
 Teaching
 ======
 
-* AAE3006, Safety, Reliability and Compliance, 2026 Spring
-* AAE5102, Operations Research, Resource Planning and Engineering Management in Aviation, 2025 Fall
+* AAE3006, Safety, Reliability and Compliance, 2026Spring@PolyU
+* AAE5102, Operations Research, Resource Planning and Engineering Management in Aviation, 2025Fall@PolyU
 
 Assisted supervision
 ======
