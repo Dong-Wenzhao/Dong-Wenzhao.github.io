@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/aae/), Faculty of Engineering, at The Hong Kong Polytechnic University, under the supervision of [Dr. Gangyan Xu](http://xugangyan.cn/about.html). I received my Bachelor’s degree in Economics from [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), and my M.Phil. degree in Aviation Engineering from The Hong Kong Polytechnic University.
+I am a second-year Ph.D. student in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/aae/), Faculty of Engineering, at The Hong Kong Polytechnic University, under the supervision of [Dr. Gangyan Xu](http://xugangyan.cn/about.html).
 
-My research interests include UAV-assisted Systems, Risk Analysis, and Human-AI Collaboration.
+Rsearch interests
+======
+
+* UAV-assisted Systems
+* Risk Analysis
+* Human-AI Collaboration
 
 Education
 ======
