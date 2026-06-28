@@ -13,8 +13,9 @@ Rsearch interests
 ======
 
 * Human-AI Collaboration
-* Risk Analysis
-* UAV-assisted Systems
+* Safety and Risk Analysis
+* Autonomous Systems
+* Healthcare Operations
 
 
 Education
@@ -24,11 +25,19 @@ Education
 * M.Phil. in System Engineering, The Hong Kong Polytechnic University, 2025
 * B.S. in Economics, Harbin Institute of Technology, Shenzhen, 2022
 
-Teaching assistant
+Publications
 ======
 
-* AAE3006, Safety, Reliability and Compliance, 2026Spring@PolyU
-* AAE5102, Operations Research, Resource Planning and Engineering Management in Aviation, 2025Fall@PolyU
+* Dong, W., Xu, G., Zhang, X., & Qiu, X. (2025). Smoothed dynamic scheduling of aircraft engines with off-site warehouse. Advanced Engineering Informatics, 66, 103451.
+* Zhang, X., Wang, X., Dong, W., & Xu, G. (2025). Adaptive large neighborhood search for autonomous electric vehicle scheduling in airport baggage transport service. Computers & Operations Research, 182, 107086.
+* Dong, W., Qiu, X., & Xu, G.* (2023). Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster. In Leveraging Transdisciplinary Engineering in a Changing and Connected World (pp. 363-372). IOS Press.
+* Dai, X., Dong, W., Tang J.*, et al. (2022). Agglomeration and Diffusion Analysis of Guangdong Urban Development and Integration of Shenzhen Metropolitan Region. Accepted by Pilot Demonstration Research (Internal publication of Research Center for the Construction of Socialism with Chinese Characteristics Pilot Demonstration Zone in Shenzhen).
+
+Awards
+======
+
+* Dong, W., Zhang, R., & Xu, G.*. Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics. World Transport Convention, 2024. (Recommended poster)
+* Dong, W., Qiu, X., & Xu, G.*. Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster. The 30th ISTE International Conference on Transdisciplinary Engineering, 2023. (Distinguished conference paper)
 
 Assisted supervision
 ======
@@ -41,3 +50,9 @@ Assisted supervision
   *(In collaboration with China Airline Service Limited, CASL)*
 * **2022/2023** - Aviation maintenance system
   *(In collaboration with Hong Kong Aircraft Engineering Company, HAECO)*
+
+Teaching assistant
+======
+
+* AAE3006, Safety, Reliability and Compliance, 2026Spring@PolyU
+* AAE5102, Operations Research, Resource Planning and Engineering Management in Aviation, 2025Fall@PolyU
