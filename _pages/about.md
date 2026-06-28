@@ -33,6 +33,11 @@ Publications
 * Dong, W., Qiu, X., & Xu, G.* (2023). Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster. In Leveraging Transdisciplinary Engineering in a Changing and Connected World (pp. 363-372). IOS Press.
 * Dai, X., Dong, W., Tang J.*, et al. (2022). Agglomeration and Diffusion Analysis of Guangdong Urban Development and Integration of Shenzhen Metropolitan Region. Accepted by Pilot Demonstration Research (Internal publication of Research Center for the Construction of Socialism with Chinese Characteristics Pilot Demonstration Zone in Shenzhen).
 
+* Dong, W., Xu, G., Zhang, X., & Qiu, X. (2025). <u>Smoothed dynamic scheduling of aircraft engines with off-site warehouse</u>. <i style="color:blue;">Advanced Engineering Informatics</i>, 66, 103451.
+* Zhang, X., Wang, X., Dong, W., & Xu, G. (2025). <u>Adaptive large neighborhood search for autonomous electric vehicle scheduling in airport baggage transport service</u>. <i style="color:blue;">Computers & Operations Research</i>, 182, 107086.
+* Dong, W., Qiu, X., & Xu, G.* (2023). <u>Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster</u>. In <i style="color:blue;">Leveraging Transdisciplinary Engineering in a Changing and Connected World</i> (pp. 363-372). IOS Press.
+* Dai, X., Dong, W., Tang J.*, et al. (2022). <u>Agglomeration and Diffusion Analysis of Guangdong Urban Development and Integration of Shenzhen Metropolitan Region</u>. Accepted by <i style="color:blue;">Pilot Demonstration Research</i> (Internal publication of Research Center for the Construction of Socialism with Chinese Characteristics Pilot Demonstration Zone in Shenzhen).
+
 Awards
 ======
 
