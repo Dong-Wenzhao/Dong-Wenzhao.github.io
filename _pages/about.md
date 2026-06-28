@@ -46,10 +46,12 @@ Assisted supervision
 * **2025/2026** - Accident Analysis and Prevention in Low-Altitude Economy
 * **2024/2025** - Infrastructure Network Design for UAV-based Emergency Medical Delivery Service 
   *(🏆 [HKIE Best Student Papers Awards](https://www.polyu.edu.hk/aae/news-and-events/news/2026/20260506_hkie-ltd-best-student-award/))*
-* **2023/2024** - Aircraft maintenance tool management 
+* **2023/2024** - Aircraft Maintenance Tool Management 
   *(In collaboration with China Airline Service Limited, CASL)*
-* **2022/2023** - Aviation maintenance system
+* **2022/2023** - Aviation Maintenance System Design
   *(In collaboration with Hong Kong Aircraft Engineering Company, HAECO)*
+**Postgraduate Dissertation for MSc Student in Aviation Engineering**
+* **2024** - Data-Driven Aircraft Maintenance Scheduling
 
 Teaching assistant
 ======
