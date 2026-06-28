@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second-year Ph.D. student in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/aae/), Faculty of Engineering, at The Hong Kong Polytechnic University, under the supervision of [Prof. Gangyan Xu](http://xugangyan.cn/about.html).
 
-Rsearch interests
+Research Interests
 ======
 
 * Human-AI Collaboration
@@ -42,7 +42,7 @@ Awards
 * **Dong, W.**, Zhang, R., & Xu, G.*. Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics. World Transport Convention, 2024. <i style="color:#0056b3;">(🏆 Recommended poster)</i>
 * **Dong, W.**, Qiu, X., & Xu, G.*. Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster. The 30th ISTE International Conference on Transdisciplinary Engineering, 2023. <i style="color:#0056b3;">(🏆 Distinguished conference paper)</i>
 
-Assisted supervision
+Assisted Supervision
 ======
 
 **Final Year Projects (FYP) for Undergraduate Students**
@@ -57,8 +57,8 @@ Assisted supervision
 **Postgraduate Dissertation for MSc Student in Aviation Engineering**
 * **2024** - Data-Driven Aircraft Maintenance Scheduling
 
-Teaching assistant
+Teaching Assistant
 ======
 
-* AAE3006, Safety, Reliability and Compliance, 2026Spring@PolyU
-* AAE5102, Operations Research, Resource Planning and Engineering Management in Aviation, 2025Fall@PolyU
+* AAE3006, Safety, Reliability and Compliance, Spring 2026, PolyU
+* AAE5102, Operations Research, Resource Planning and Engineering Management in Aviation, Fall 2025, PolyU
