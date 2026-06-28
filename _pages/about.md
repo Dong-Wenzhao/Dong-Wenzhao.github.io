@@ -23,7 +23,7 @@ Education
 * M.Phil. in Aviation Engineering, The Hong Kong Polytechnic University, 2025
 * B.S. in Economics, Harbin Institute of Technology, Shenzhen, 2022
 
-Teaching
+Teaching assistant
 ======
 
 * AAE3006, Safety, Reliability and Compliance, 2026Spring@PolyU
