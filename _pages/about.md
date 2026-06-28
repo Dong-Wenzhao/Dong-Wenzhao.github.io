@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/aae/), Faculty of Engineering, at The Hong Kong Polytechnic University, under the supervision of [Dr. Gangyan Xu](http://xugangyan.cn/about.html).
+I am a second-year Ph.D. student in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/aae/), Faculty of Engineering, at The Hong Kong Polytechnic University, under the supervision of [Prof. Gangyan Xu](http://xugangyan.cn/about.html).
 
 Rsearch interests
 ======
@@ -21,9 +21,12 @@ Rsearch interests
 Education
 ======
 
-* Ph.D. in System Engineering, The Hong Kong Polytechnic University, 2025.05 - Present
-* M.Phil. in System Engineering, The Hong Kong Polytechnic University, 2025
-* B.S. in Economics, Harbin Institute of Technology, Shenzhen, 2022
+* Ph.D. in Systems Engineering, The Hong Kong Polytechnic University, 2025.05 - Present<br>
+  *Supervisor: Prof. Gangyan Xu*
+* M.Phil. in Systems Engineering, The Hong Kong Polytechnic University, 2025<br>
+  *Supervisor: Prof. Gangyan Xu*
+* B.S. in Economics, Harbin Institute of Technology, Shenzhen, 2022<br>
+  *Supervisor: Prof. Tingting Xiao*
 
 Publications
 ======
