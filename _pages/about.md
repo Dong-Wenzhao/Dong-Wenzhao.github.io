@@ -50,6 +50,7 @@ Assisted supervision
   *(In collaboration with China Airline Service Limited, CASL)*
 * **2022/2023** - Aviation Maintenance System Design
   *(In collaboration with Hong Kong Aircraft Engineering Company, HAECO)*
+
 **Postgraduate Dissertation for MSc Student in Aviation Engineering**
 * **2024** - Data-Driven Aircraft Maintenance Scheduling
 
