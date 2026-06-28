@@ -12,15 +12,16 @@ I am a second-year Ph.D. student in the [Department of Aeronautical and Aviation
 Rsearch interests
 ======
 
-* UAV-assisted Systems
-* Risk Analysis
 * Human-AI Collaboration
+* Risk Analysis
+* UAV-assisted Systems
+
 
 Education
 ======
 
-* Ph.D. in Aviation Engineering, The Hong Kong Polytechnic University, 2025.05 - Present
-* M.Phil. in Aviation Engineering, The Hong Kong Polytechnic University, 2025
+* Ph.D. in System Engineering, The Hong Kong Polytechnic University, 2025.05 - Present
+* M.Phil. in System Engineering, The Hong Kong Polytechnic University, 2025
 * B.S. in Economics, Harbin Institute of Technology, Shenzhen, 2022
 
 Teaching assistant
