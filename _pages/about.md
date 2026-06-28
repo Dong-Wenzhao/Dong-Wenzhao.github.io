@@ -36,8 +36,8 @@ Publications
 Awards
 ======
 
-* **Dong, W.**, Zhang, R., & Xu, G.*. Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics. World Transport Convention, 2024. <i style="color:#0056b3;">(Recommended poster)</i>
-* **Dong, W.**, Qiu, X., & Xu, G.*. Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster. The 30th ISTE International Conference on Transdisciplinary Engineering, 2023. <i style="color:#0056b3;">(Distinguished conference paper)</i>
+* **Dong, W.**, Zhang, R., & Xu, G.*. Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics. World Transport Convention, 2024. <i style="color:#0056b3;">(🏆 Recommended poster)</i>
+* **Dong, W.**, Qiu, X., & Xu, G.*. Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster. The 30th ISTE International Conference on Transdisciplinary Engineering, 2023. <i style="color:#0056b3;">(🏆 Distinguished conference paper)</i>
 
 Assisted supervision
 ======
