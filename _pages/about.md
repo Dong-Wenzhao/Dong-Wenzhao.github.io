@@ -42,6 +42,7 @@ Conference Presentations and Posters
 * Dong, W., Zhang, R., & Xu, G.. <u>Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics</u>. <i style="color:#0056b3;">World Transport Convention</i>, 2024.06, Qingdao, China.
 * Dong, W., Qiu, X., & Xu, G.. <u>Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster</u>. <i style="color:#0056b3;">The 30th ISTE International Conference on Transdisciplinary Engineering</i>, 2023.07, Hua Hin Cha Am, Thailand.
 * Dong, W., Xu, G., & Qiu, X.. <u>Data-Driven Analysis for Optimal Pricing Strategies of Return-Freight Insurance in E-commerce</u>. <i style="color:#0056b3;">31st POMS Annual Conference</i>, 2021.05, Online.
+
 Awards
 ======
 
