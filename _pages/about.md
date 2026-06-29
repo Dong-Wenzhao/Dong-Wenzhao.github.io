@@ -36,11 +36,11 @@ Publications
 Conference Presentations and Posters
 ======
 
-* 2025.07: Revolutionize Rural Healthcare: Multimodal Network Design for UAV-assisted Medical Delivery Service. 2025 INFORMS International Meeting, Singapore.
-* 2024.07: Dynamic Engine Dispatching with Shared Warehouses for Resilient Aircraft Engine Logistics. the 27th World Conference of the Air Transport Research Society (ATRS). Lisbon, Portugal.
-* 2024.06: Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics. World Transport Convention, Qingdao, China.
-* 2023.07: Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster. The 30th ISTE International Conference on Transdisciplinary Engineering. Hua Hin Cha Am, Thailand.
-* 2021.05: Data-Driven Analysis for Optimal Pricing Strategies of Return-Freight Insurance in E-commerce. 31st POMS Annual Conference. Online.
+* Dong, W. & Xu, G.. Revolutionize Rural Healthcare: Multimodal Network Design for UAV-assisted Medical Delivery Service. INFORMS International Meeting, 2025.07, Singapore.
+* Dong, W. & Xu, G.. Dynamic Engine Dispatching with Shared Warehouses for Resilient Aircraft Engine Logistics. the 27th World Conference of the Air Transport Research Society (ATRS), 2024.07, Lisbon, Portugal.
+* Dong, W., Zhang, R., & Xu, G.. Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics. World Transport Convention, 2024.06, Qingdao, China.
+* Dong, W., Qiu, X., & Xu, G.. Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster. The 30th ISTE International Conference on Transdisciplinary Engineering, 2023.07, Hua Hin Cha Am, Thailand.
+* Dong, W., Xu, G., & Qiu, X.. Data-Driven Analysis for Optimal Pricing Strategies of Return-Freight Insurance in E-commerce. 31st POMS Annual Conference, 2021.05, Online.
 
 Awards
 ======
@@ -61,7 +61,7 @@ Assisted Supervision
   *(In collaboration with Hong Kong Aircraft Engineering Company, HAECO)*
 
 **Postgraduate Dissertation for MSc Student in Aviation Engineering**
-* **2024** - Data-Driven Aircraft Maintenance Scheduling
+* **2023/2024** - Data-Driven Aircraft Maintenance Scheduling
 
 Teaching Assistant
 ======
