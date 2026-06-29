@@ -16,7 +16,7 @@ Here are some of the trails I've explored.
 ### ⛰️ Recent Hikes & Summits
 
 #### 📍 Tung O Ancient Trail, Hong Kong
-<span style="font-size: 0.85em; color: gray;">*(Date: 2026.04)*</span>
+<span style="font-size: 0.8em; color: gray;">*2026.04*</span>
 
 <div style="text-align: justify;">
 14 miles from Tung Chung to Tai O
