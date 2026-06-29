@@ -33,7 +33,7 @@ Publications
 * Zhang, X., Wang, X., **Dong, W.**, & Xu, G. (2025). <u>Adaptive large neighborhood search for autonomous electric vehicle scheduling in airport baggage transport service</u>. <i style="color:#0056b3;">Computers & Operations Research</i>, 182, 107086.
 * **Dong, W.**, Qiu, X., & Xu, G.* (2023). <u>Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster</u>. In <i style="color:#0056b3;">Leveraging Transdisciplinary Engineering in a Changing and Connected World</i> (pp. 363-372). IOS Press.
 
-Talks
+Conference Presentations and Posters
 ======
 
 * 2025.07: Revolutionize Rural Healthcare: Multimodal Network Design for UAV-assisted Medical Delivery Service. 2025 INFORMS International Meeting, Singapore.
