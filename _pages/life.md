@@ -22,9 +22,9 @@ Here are some of the trails I've explored.
 14 miles from Tung Chung to Tai O
 </div>
 <div style="display: flex; justify-content: center; gap: 15px; margin: 15px 0 30px 0; flex-wrap: wrap;">
-    <img src="/images/hiking/Hiking-1-3.JPG" alt="Hiking" style="height: 180px; width: auto; border-radius: 8px;">
+    <img src="/images/hiking/Hiking-1-3.jpg" alt="Hiking" style="height: 180px; width: auto; border-radius: 8px;">
     <img src="/images/hiking/Hiking-1-2.JPG" alt="Hiking" style="height: 180px; width: auto; border-radius: 8px;">
-    <img src="/images/hiking/Hiking-1-1.jpg" alt="Hiking" style="height: 180px; width: auto; border-radius: 8px;">
+    <img src="/images/hiking/Hiking-1-1.JPG" alt="Hiking" style="height: 180px; width: auto; border-radius: 8px;">
 </div>
 ---
 
