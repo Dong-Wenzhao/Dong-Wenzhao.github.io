@@ -12,7 +12,7 @@ I am a second-year Ph.D. student in the [Department of Aeronautical and Aviation
 Research Interests
 ======
 
-* Human-Autonomous Teaming
+* Human-Autonomy Teaming
 * Safety and Risk Management
 * Complex Networks
 
