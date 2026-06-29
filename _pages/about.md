@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="font-size: 0.9em;" markdown="1">
+
 I am a second-year Ph.D. student in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/aae/), Faculty of Engineering, at The Hong Kong Polytechnic University, under the supervision of [Dr. Gangyan Xu](http://xugangyan.cn/about.html).
 
 Research Interests
@@ -40,9 +42,6 @@ Conference Presentations and Posters
 * Dong, W., Zhang, R., & Xu, G.. <u>Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics</u>. <i style="color:#0056b3;">World Transport Convention</i>, 2024.06, Qingdao, China.
 * Dong, W., Qiu, X., & Xu, G.. <u>Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster</u>. <i style="color:#0056b3;">The 30th ISTE International Conference on Transdisciplinary Engineering</i>, 2023.07, Hua Hin Cha Am, Thailand.
 * Dong, W., Xu, G., & Qiu, X.. <u>Data-Driven Analysis for Optimal Pricing Strategies of Return-Freight Insurance in E-commerce</u>. <i style="color:#0056b3;">31st POMS Annual Conference</i>, 2021.05, Online.
-<!-- * Dong, W. & Xu, G.. Dynamic Engine Dispatching with Shared Warehouses for Resilient Aircraft Engine Logistics. the 27th World Conference of the Air Transport Research Society (ATRS), 2024.07, Lisbon, Portugal.-->
-
-
 Awards
 ======
 
@@ -69,3 +68,5 @@ Teaching Assistant
 
 * AAE3006, Safety, Reliability and Compliance, Spring 2026, PolyU
 * AAE5102, Operations Research, Resource Planning and Engineering Management in Aviation, Fall 2025, PolyU
+
+</div>
