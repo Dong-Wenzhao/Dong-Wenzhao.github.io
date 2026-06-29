@@ -36,8 +36,11 @@ Publications
 Talks
 ======
 
-* 2024.06: Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics. World Transport Convention, Qingdao, China. 
-* 2021.05: Data-Driven Analysis for Optimal Pricing Strategies of Return-Freight Insurance in E-commerce. 31st POMS Annual Conference, Online.
+* 2025.07: Revolutionize Rural Healthcare: Multimodal Network Design for UAV-assisted Medical Delivery Service. 2025 INFORMS International Meeting, Singapore.
+* 2024.07: Dynamic Engine Dispatching with Shared Warehouses for Resilient Aircraft Engine Logistics. the 27th World Conference of the Air Transport Research Society (ATRS). Lisbon, Portugal.
+* 2024.06: Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics. World Transport Convention, Qingdao, China.
+* 2023.07: Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster. The 30th ISTE International Conference on Transdisciplinary Engineering. Hua Hin Cha Am, Thailand.
+* 2021.05: Data-Driven Analysis for Optimal Pricing Strategies of Return-Freight Insurance in E-commerce. 31st POMS Annual Conference. Online.
 
 Awards
 ======
