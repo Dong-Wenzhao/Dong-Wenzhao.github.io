@@ -16,14 +16,14 @@ Here are some of the trails I've explored.
 ### ⛰️ Recent Hikes & Summits
 
 #### 📍 Tung O Ancient Trail, Hong Kong
-*(Date: 2026.04)*
+<span style="font-size: 0.85em; color: gray;">*(Date: 2026.04)*</span>
 
 <div style="text-align: justify;">
 14 miles from Tung Chung to Tai O
 </div>
 
 <!-- 请将下面的 src 换成你真实上传到 images 文件夹里的图片名字 -->
-<img src="/images/hiking/Hiking-1-1.JPG" alt="Hiking at Lion Rock" style="width:100%; border-radius: 8px; margin-top: 10px; margin-bottom: 30px;">
+<img src="/images/hiking/Hiking-1-1.JPG" alt="Hiking" style="width: 500px; display: block; margin: 15px auto 30px auto; border-radius: 8px;">
 
 ---
 
