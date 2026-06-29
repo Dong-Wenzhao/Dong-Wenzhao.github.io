@@ -21,10 +21,11 @@ Here are some of the trails I've explored.
 <div style="text-align: justify;">
 14 miles from Tung Chung to Tai O
 </div>
-
-<!-- 请将下面的 src 换成你真实上传到 images 文件夹里的图片名字 -->
-<img src="/images/hiking/Hiking-1-1.JPG" alt="Hiking" style="width: 500px; display: block; margin: 15px auto 30px auto; border-radius: 8px;">
-
+<div style="display: flex; justify-content: center; gap: 15px; margin: 15px 0 30px 0; flex-wrap: wrap;">
+    <img src="/images/hiking/Hiking-1-1.JPG" alt="Hiking" style="height: 180px; width: auto; border-radius: 8px;">
+    <img src="/images/hiking/Hiking-1-2.JPG" alt="Hiking" style="height: 180px; width: auto; border-radius: 8px;">
+    <img src="/images/hiking/Hiking-1-3.JPG" alt="Hiking" style="height: 180px; width: auto; border-radius: 8px;">
+</div>
 ---
 
 > *"The best view comes after the hardest climb."*
