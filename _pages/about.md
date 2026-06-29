@@ -12,11 +12,9 @@ I am a second-year Ph.D. student in the [Department of Aeronautical and Aviation
 Research Interests
 ======
 
-* Human-AI Collaboration
-* Safety and Risk Analysis
-* Autonomous Systems
-* Healthcare Operations
-
+* Human-Autonomous Teaming
+* Safety and Risk Management
+* Complex Networks
 
 Education
 ======
@@ -34,13 +32,18 @@ Publications
 * **Dong, W.**, Xu, G., Zhang, X., & Qiu, X. (2025). <u>Smoothed dynamic scheduling of aircraft engines with off-site warehouse</u>. <i style="color:#0056b3;">Advanced Engineering Informatics</i>, 66, 103451.
 * Zhang, X., Wang, X., **Dong, W.**, & Xu, G. (2025). <u>Adaptive large neighborhood search for autonomous electric vehicle scheduling in airport baggage transport service</u>. <i style="color:#0056b3;">Computers & Operations Research</i>, 182, 107086.
 * **Dong, W.**, Qiu, X., & Xu, G.* (2023). <u>Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster</u>. In <i style="color:#0056b3;">Leveraging Transdisciplinary Engineering in a Changing and Connected World</i> (pp. 363-372). IOS Press.
-* Dai, X., **Dong, W.**, Tang J.*, et al. (2022). <u>Agglomeration and Diffusion Analysis of Guangdong Urban Development and Integration of Shenzhen Metropolitan Region</u>. Accepted by <i style="color:#0056b3;">Pilot Demonstration Research</i> (Internal publication of Research Center for the Construction of Socialism with Chinese Characteristics Pilot Demonstration Zone in Shenzhen).
+
+Talks
+======
+
+* 2024.06: Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics. World Transport Convention, Qingdao, China. 
+* 2021.05: Data-Driven Analysis for Optimal Pricing Strategies of Return-Freight Insurance in E-commerce. 31st POMS Annual Conference, Online.
 
 Awards
 ======
 
-* **Dong, W.**, Zhang, R., & Xu, G.*. Cost-benefit Analysis of Reusable Transport Item in Sustainable Cross-border E-commerce Logistics. World Transport Convention, 2024. <i style="color:#0056b3;">(🏆 Recommended poster)</i>
-* **Dong, W.**, Qiu, X., & Xu, G.*. Scheduled Transport Service Design for Cross-Border Logistics in Airport Cluster. The 30th ISTE International Conference on Transdisciplinary Engineering, 2023. <i style="color:#0056b3;">(🏆 Distinguished conference paper)</i>
+* Recommended poster: World Transport Convention, 2024
+* Distinguished conference paper: The 30th ISTE International Conference on Transdisciplinary Engineering, 2023
 
 Assisted Supervision
 ======
