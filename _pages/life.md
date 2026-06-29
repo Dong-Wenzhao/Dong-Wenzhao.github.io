@@ -23,7 +23,7 @@ Here are some of the trails I've explored.
 </div>
 
 <!-- 请将下面的 src 换成你真实上传到 images 文件夹里的图片名字 -->
-<img src="/images/hiking/Hiking-1-1" alt="Hiking at Lion Rock" style="width:100%; border-radius: 8px; margin-top: 10px; margin-bottom: 30px;">
+<img src="/images/hiking/Hiking-1-1.JPG" alt="Hiking at Lion Rock" style="width:100%; border-radius: 8px; margin-top: 10px; margin-bottom: 30px;">
 
 ---
 
